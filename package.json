@@ -28,7 +28,7 @@
     "serve": "npx serve"
   },
   "dependencies": {
-    "immer": "^5.0.1",
+    "immer": "^8.0.1",
     "redux": "^4.0.4"
   }
 }
